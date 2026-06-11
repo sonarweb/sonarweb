@@ -3,8 +3,7 @@
 
 Skills: JS / HTML / CSS / PHP
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning VUE JS 
+- 🔭 I’m currently working on this page.  
 
 
 
